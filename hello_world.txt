@@ -1,3 +1,4 @@
 Hello world! 
 Let's say it in Russian
 Privet mir!
+trying git comit command using VSCode
